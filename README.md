@@ -1,4 +1,4 @@
-# AWS IAM User and Group Setup
+# AWS IAM User and Group Setup.
 
 ## Objective
 To create IAM users and groups for secure AWS access instead of using the root account.
